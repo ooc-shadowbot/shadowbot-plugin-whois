@@ -1,0 +1,11 @@
+{
+  "name": "shadowbot-plugin-whois",
+  "description": "This plugin allows checking whois data for remote domains",
+  "version": "1.0.0",
+  "private": true,
+  "author": "R4Wizard",
+  "main": "plugin.js",
+  "dependencies": {
+    "node-whois": "^2.1.3"
+  }
+}
